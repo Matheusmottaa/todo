@@ -10,7 +10,7 @@
 
 ## How to run
 
-- git clone 
+- git clone https://github.com/Matheusmottaa/todo
 
 - cd todo
 
