@@ -12,7 +12,7 @@
 
 - git clone 
 
-- cd folder 
+- cd todo
 
 - yarn 
 
